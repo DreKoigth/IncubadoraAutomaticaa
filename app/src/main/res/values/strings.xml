@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Remote_Incubator</string>
+    <string name="sensors">Sensores</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="DHT11_interior">Sensor de temperatura interna:</string>
+    <string name="DHT11_interior_h_i">Sensor de humedad interna:</string>
+    <string name="DHT11_exterior">Sensor de temperatura externa:</string>
+    <string name="DHT11_interior_h_e">Sensor de humedad externa:</string>
+    <string name="fan_controller">Estado del ventilador:</string>
+    <string name="position">Inclinacion del huevo</string>
+    <string name="overview_label">Datos recibidos ahora:</string>
+    <string name="title_label">Seleccione un dispositivo Bluetooth: </string>
+    <string name="note_label">Nota: Si no hay dispositivos en la lista, por favor enlaza tu dispositivo en la configuración de Android (solo dispositivos HC-05 o HC-06)</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="test_connection">Probar conexion</string>
+    <string name="led_label">LED</string>
+    <string name="button_on">Encender Led</string>
+    <string name="button_off">Apagar Led</string>
+    <string name="button_modify">Modificar valores</string>
+    <string name="button_return">Volver</string>
+    <string name="none_paired">Ningun dispositivo pudo ser emparejado</string>
+</resources>
